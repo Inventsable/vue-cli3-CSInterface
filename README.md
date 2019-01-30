@@ -21,3 +21,5 @@ Working example of `CSInterface` inside a vue-cli build, updated from [vue-cli-3
 * See `./CSXS/` for notes on `manifest.xml` file for nodeJS.
 
 * See `index-dev.html` and `index.html`. `index-dev.html` is pointed to in `manifest.xml`, which itself contains the PORT: parameter to `index.html` from `webpack.config.js` file (line #52). `index.html` can contain any number of external scripts like `CSInterface.js`, though this likely isn't good practice.
+
+![Demo](https://thumbs.gfycat.com/ChiefInformalHummingbird-size_restricted.gif)
